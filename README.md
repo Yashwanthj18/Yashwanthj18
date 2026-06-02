@@ -1,17 +1,32 @@
-# Hi there 👋, I'm Yashwanth.J
+# Hi there 👋, I'm Yashwanth
 
- BCA (Data Science) Student
+BCA (Data Science) Student
 
- Aspiring Data Scientist passionate about transforming data into meaningful insights through Data Analysis, Machine Learning, and Artificial Intelligence.
+Aspiring Data Scientist passionate about transforming data into meaningful insights through Data Analysis, Machine Learning, and Artificial Intelligence.
 
 
-## About Me
+##  About Me
 
 -  Pursuing BCA in Data Science
 -  Currently learning Machine Learning and Data Analytics
 -  Building real-world Data Science projects
 -  Interested in AI, Machine Learning, Data Visualization, and Business Intelligence
 -  Seeking Internship Opportunities in Data Science and Analytics
+
+
+##  Internship Experience
+
+# Data Science Intern | Prodigy InfoTech
+- Completed real-world Data Science projects.
+- Performed Data Analysis and Data Visualization using Python.
+- Applied Machine Learning techniques to solve practical problems.
+- Worked with Pandas, NumPy, Matplotlib, and Scikit-Learn.
+
+# Data Science Intern | SkillCraft Technology
+- Developed Machine Learning and Data Analytics projects.
+- Conducted Exploratory Data Analysis (EDA).
+- Built predictive models and data-driven solutions.
+- Enhanced skills in Python, Machine Learning, and Data Visualization.
 
 
 ## Skills & Technologies
@@ -31,10 +46,11 @@
 - Data Preprocessing
 - Classification
 - Regression
+- NLP
 
 # Data Visualization
 - Power BI
-- Excel
+- Microsoft Excel
 
 # Tools
 - Git
@@ -43,7 +59,8 @@
 - VS Code
 
 
-## 📂 Featured Projects
+
+## Featured Projects
 
 # Movie Recommendation System
 Built a recommendation engine that suggests movies based on user preferences using Python and recommendation algorithms.
@@ -63,21 +80,29 @@ Analyzed student performance data to identify patterns and trends using data vis
 # Sales Dashboard
 Interactive Power BI dashboard for business sales analytics and decision-making.
 
+# AI Chatbot
+Developed a chatbot using Python to automate user interactions and responses.
 
-# Currently Learning
+
+## Currently Learning
 
 - Advanced Machine Learning
 - Deep Learning
 - Artificial Intelligence
 - Data Analytics
 - Power BI
-- Data Visualization
 
 
-##  Connect With Me
+## Career Objective
 
-💼 LinkedIn: www.linkedin.com/in/yashwanth-j-aa08b7385
+Aspiring Data Scientist seeking opportunities to apply analytical, machine learning, and problem-solving skills to real-world challenges while continuously learning and contributing to innovative projects.
 
-📧 Email: yashwanthj42@gmail.com
 
-"Learning, Building, and Growing Every Day in Data Science"
+## Connect With Me
+
+ LinkedIn: www.linkedin.com/in/yashwanth-j-aa08b7385
+
+ GitHub: https://github.com/Yashwanthj18
+
+
+"Turning Data into Insights, and Insights into Impact."
