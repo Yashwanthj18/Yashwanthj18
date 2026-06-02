@@ -1,17 +1,17 @@
 # Hi there 👋, I'm Yashwanth.J
 
-🎓 BCA (Data Science) Student
+ BCA (Data Science) Student
 
-📊 Aspiring Data Scientist passionate about transforming data into meaningful insights through Data Analysis, Machine Learning, and Artificial Intelligence.
+ Aspiring Data Scientist passionate about transforming data into meaningful insights through Data Analysis, Machine Learning, and Artificial Intelligence.
 
 
 ## About Me
 
-- 🎓 Pursuing BCA in Data Science
-- 🌱 Currently learning Machine Learning and Data Analytics
-- 💻 Building real-world Data Science projects
-- 📈 Interested in AI, Machine Learning, Data Visualization, and Business Intelligence
-- 🎯 Seeking Internship Opportunities in Data Science and Analytics
+-  Pursuing BCA in Data Science
+-  Currently learning Machine Learning and Data Analytics
+-  Building real-world Data Science projects
+-  Interested in AI, Machine Learning, Data Visualization, and Business Intelligence
+-  Seeking Internship Opportunities in Data Science and Analytics
 
 
 ## Skills & Technologies
@@ -74,7 +74,7 @@ Interactive Power BI dashboard for business sales analytics and decision-making.
 - Data Visualization
 
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 💼 LinkedIn: www.linkedin.com/in/yashwanth-j-aa08b7385
 
