@@ -16,17 +16,17 @@ Aspiring Data Scientist passionate about transforming data into meaningful insig
 
 ##  Internship Experience
 
-# Data Science Intern | Prodigy InfoTech
-- Completed real-world Data Science projects.
-- Performed Data Analysis and Data Visualization using Python.
-- Applied Machine Learning techniques to solve practical problems.
-- Worked with Pandas, NumPy, Matplotlib, and Scikit-Learn.
-
 # Data Science Intern | SkillCraft Technology
 - Developed Machine Learning and Data Analytics projects.
 - Conducted Exploratory Data Analysis (EDA).
 - Built predictive models and data-driven solutions.
 - Enhanced skills in Python, Machine Learning, and Data Visualization.
+
+# Data Science Intern | Prodigy InfoTech
+- Completed real-world Data Science projects.
+- Performed Data Analysis and Data Visualization using Python.
+- Applied Machine Learning techniques to solve practical problems.
+- Worked with Pandas, NumPy, Matplotlib, and Scikit-Learn.
 
 
 ## Skills & Technologies
