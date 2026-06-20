@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yashwanth
+# Hi there 👋, I'm Yashwanth.J
 
 BCA (Data Science) Student
 
