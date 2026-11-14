@@ -145,7 +145,7 @@ Connect With Me
 </p>
 
 <p align="center">
-⭐ **Turning Data into Insights, and Insights into Impact.**
+**Turning Data into Insights, and Insights into Impact.**
 </p>
 
 <p align="center">
