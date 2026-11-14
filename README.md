@@ -40,6 +40,8 @@ Aspiring Data Scientist passionate about transforming data into meaningful insig
 - NumPy
 - Matplotlib
 - Seaborn
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
 
 **Machine Learning**
 - Scikit-Learn
@@ -47,11 +49,25 @@ Aspiring Data Scientist passionate about transforming data into meaningful insig
 - Classification
 - Regression
 - NLP
+- YOLO Object Detection
 
 **Data Visualization**
 - Power BI
 - Microsoft Excel
 - Power point
+- Dashboard Development
+
+**Web Development & Backend**
+- HTML
+- CSS
+- React
+- TypeScript
+- FastAPI
+- REST APIs
+
+**Database**
+- PostgreSQL
+- SQLite
 
 **Tools & Technologies**
 - Git
@@ -115,11 +131,29 @@ Developed a chatbot using Python to automate user interactions and responses.
 
 Aspiring Data Scientist and Data Analyst seeking opportunities to apply analytical, machine learning, and problem-solving skills to real-world challenges while continuously learning and contributing to innovative projects.
 
-## 🤝 Connect With Me
 
-- **LinkedIn:** [Yashwanth J](https://www.linkedin.com/in/yashwanth-j-aa08b7385/)
-- **GitHub:** [Yashwanthj18](https://github.com/Yashwanthj18)
 
----
+🤝 Connect With Me
 
-⭐ *Turning Data into Insights, and Insights into Impact.*
+<p align="left">
+<a href="https://www.linkedin.com/in/yashwanth-j-aa08b7385/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Yashwanthj18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Yashwanthj18&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+⭐ **Turning Data into Insights, and Insights into Impact.**
+</p>
+
+<p align="center">
+💻 Always Learning | 🚀 Always Building | 📊 Always Exploring
+</p>
