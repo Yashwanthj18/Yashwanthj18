@@ -133,7 +133,7 @@ Aspiring Data Scientist and Data Analyst seeking opportunities to apply analytic
 
 
 
-🤝 Connect With Me
+Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yashwanth-j-aa08b7385/">
@@ -144,16 +144,10 @@ Aspiring Data Scientist and Data Analyst seeking opportunities to apply analytic
 </a>
 </p>
 
-👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Yashwanthj18&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 <p align="center">
 ⭐ **Turning Data into Insights, and Insights into Impact.**
 </p>
 
 <p align="center">
-💻 Always Learning | 🚀 Always Building | 📊 Always Exploring
+Always Learning | Always Building | Always Exploring
 </p>
